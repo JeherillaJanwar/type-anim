@@ -15,7 +15,6 @@ let preview = {
   },
   dummyText: [
     "Made by Ishaan Sharma",
-    "To know more about Ishaan S. go to https://cutt.ly/328069i",
     "The five boxing wizards jump quickly",
     "How vexingly quick daft zebras jump",
     "Quick fox jumps nightly above wizard",
