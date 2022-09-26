@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-48CYVH0XEF"></script>
+  
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -16,7 +15,7 @@
         gtag('js', new Date());
         gtag('config', 'G-48CYVH0XEF');
     </script>
-    <title>Readme Typing SVG - Demo Site</title>
+    <title>Type-Anim</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap">
     <link href="https://css.gg/css?=|moon|sun" rel="stylesheet">
@@ -31,7 +30,7 @@
 </head>
 
 <body <?= (isset($_COOKIE["darkmode"]) && $_COOKIE["darkmode"] == "on") ? 'data-theme="dark"' : ""; ?>>
-    <h1>⌨️ Readme Typing SVG</h1>
+    <h1>⌨️ Type-Anim</h1>
 
    
 
