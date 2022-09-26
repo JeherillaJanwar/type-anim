@@ -6,15 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'G-48CYVH0XEF');
-    </script>
+    
     <title>Type-Anim</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap">
@@ -141,7 +133,7 @@
 </body>
 
     <div>
-        Made by Ishaan Sharma
+        <a href="https://cutt.ly/328069i">Made by Ishaan Sharma</a>
     </div>
     
 </html>
