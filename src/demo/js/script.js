@@ -14,6 +14,8 @@ let preview = {
     pause: "0",
   },
   dummyText: [
+    "Made by Ishaan Sharma",
+    "To know more about Ishaan S. go to https://cutt.ly/328069i",
     "The five boxing wizards jump quickly",
     "How vexingly quick daft zebras jump",
     "Quick fox jumps nightly above wizard",
@@ -21,7 +23,6 @@ let preview = {
     "Waltz, bad nymph, for quick jigs vex",
     "Glib jocks quiz nymph to vex dwarf",
     "Jived fox nymph grabs quick waltz",
-    "Website created by Ishaan Sharma",
   ],
   // update the preview
   update: function () {
