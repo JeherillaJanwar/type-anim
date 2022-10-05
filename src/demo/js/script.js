@@ -62,8 +62,8 @@ let preview = {
     const imageURL = `${window.location.origin}?${query}`;
     const demoImageURL = `/?${query}`;
     const repoLink = "https://cutt.ly/type-anim";
-    const md = `[![Typing SVG](${imageURL})](${repoLink})`;
-    const html = `<a href="${repoLink}"><img src="${imageURL}" alt="Typing SVG" /></a>`;
+    const md = `[![Type-Anim_Ishaan](${imageURL})](${repoLink})`;
+    const html = `<a href="${repoLink}"><img src="${imageURL}" alt="Type-Anim_Ishaan" /></a>`;
     // don't update if nothing has changed
     const mdElement = document.querySelector(".md code");
     const htmlElement = document.querySelector(".html code");
