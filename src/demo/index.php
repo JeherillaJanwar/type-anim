@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+      
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P70L4LV05S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-P70L4LV05S');
+</script> 
+    
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
