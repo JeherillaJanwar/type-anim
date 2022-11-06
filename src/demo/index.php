@@ -132,8 +132,5 @@
     </a>
 </body>
 
-    <div>
-        <a href="https://cutt.ly/328069i">Made by Ishaan Sharma</a>
-    </div>
     
 </html>
