@@ -14,7 +14,6 @@ let preview = {
     pause: "0",
   },
   dummyText: [
-    "Made by Ishaan Sharma",
     "The five boxing wizards jump quickly",
     "How vexingly quick daft zebras jump",
     "Quick fox jumps nightly above wizard",
