@@ -14,7 +14,9 @@
   "homepage": "https://github.com/JeherillaJanwar/type-anim/",
   "autoload": {
     "classmap": [
-      "src/demo/"
+      "src/models/",
+      "src/views/",
+      "src/controllers/"
     ]
   },
   "require": {
