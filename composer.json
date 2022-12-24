@@ -1,5 +1,5 @@
 {
-  "name": "jeherillajanwar/type-anim",
+  "name": "type-anim",
   "description": "⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.",
   "keywords": [
     "github",
@@ -10,13 +10,11 @@
     "profile"
   ],
   "license": "MIT",
-  "version": "0.6.0",
-  "homepage": "https://github.com/JeherillaJanwar/type-anim",
+  "version": "0.7.0",
+  "homepage": "https://github.com/JeherillaJanwar/type-anim/",
   "autoload": {
     "classmap": [
-      "src/models/",
-      "src/views/",
-      "src/controllers/"
+      "src/demo/"
     ]
   },
   "require": {
@@ -28,6 +26,8 @@
   },
   "scripts": {
     "start": "php7 -S localhost:8000 -t src || php -S localhost:8000 -t src",
-    "test": "./vendor/bin/phpunit --testdox tests"
+    "test": "./vendor/bin/phpunit --testdox tests",
+    "format:check": "prettier --check *.md **/**/*.{php,md,js,css} --print-width 120",
+    "format": "prettier --write *.md **/**/*.{php,md,js,css} --print-width 120"
   }
 }
